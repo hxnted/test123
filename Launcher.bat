@@ -1,0 +1,1 @@
+FortniteLauncher -NOSSLPINNING -skippatchcheck -epicportal -HTTP=WinINet
