@@ -1,1 +1,1 @@
-FortniteLauncher -NOSSLPINNING -skippatchcheck -epicportal -HTTP=WinINet
+FortniteClient-Win64-Shipping.exe -skippatchcheck -epicportal -HTTP=WinINet -log
